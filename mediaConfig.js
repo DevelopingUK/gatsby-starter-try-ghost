@@ -8,6 +8,6 @@ module.exports = {
 
     // Fading in transition (default: true)
     // true negatively impacts Lighthouse 6 LCP score
-    gatsbyImageFadeIn: true,
+    gatsbyImageFadeIn: false,
 
 }
